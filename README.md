@@ -7,7 +7,7 @@ The courses enlisted in this specialization are as follows:
 
 - [x] __What is Data Science?__
 
-- [ ] __Open Source tools for Data Science__
+- [x] __Open Source tools for Data Science__
 
 - [ ] __Data Science Methodology__
 
