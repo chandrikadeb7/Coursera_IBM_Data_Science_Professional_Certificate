@@ -1,0 +1,41 @@
+Quiz 4 - RStudio IDE
+TOTAL POINTS 5
+
+1.Question 1
+RStudio IDE allows you to…
+Analyze data
+See your console
+Visualize your plots and graphs
+All of the above
+Ans: All of the above
+
+2.Question 2
+The reason why 'sc' is one of the default variables in RStudio IDE on Skills Network Labs is because:
+A.	"sc" stands for "SuperComputer" and was created by default to help users analyze big data
+B.	"sc" stands for "SparkContext" and is created by default to enable users to use Apache Spark from RStudio IDE.
+C.	It's actually a bug and should not have been created by default.
+D.	None of the above
+Ans: B
+
+3.Question 3
+What are ways that you can execute R code in RStudio?
+A. From the console only
+B. From the script editor only
+C. From the script editor & console
+D. From the script editor, console & global environments tab
+Ans: C
+
+4.Question 4
+True or False? You can view a history of code you have previously executed on RStudio IDE.
+True
+False
+Ans: True
+
+5.Question 5
+Which of the following options are True? Select all that apply:
+A.	You can execute Python, R or Scala code in RStudio.
+B.	RStudio keeps track of the variables you've assigned in the "Packages" window.
+C.	You can create maps in RStudio, but they are not interactive (e.g., you cannot zoom in or out of the maps).
+D.	You can use built-in datasets ("dataframes") in RStudio, such as "mtcars".
+Ans: D
+
