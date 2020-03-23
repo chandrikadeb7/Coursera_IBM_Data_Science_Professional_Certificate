@@ -1,4 +1,4 @@
-# Coursera_IBM_Data_Science
+# Coursera_IBM_Data_Science_Professional_Certificate
 This repo consists of the lecture PDFs and quiz solutions of all the courses under the IBM Data Science Professional Certificate of Coursera. 
 
 Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
